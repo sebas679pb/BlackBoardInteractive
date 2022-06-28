@@ -98,7 +98,7 @@ class WSBBChannel {
 }
 
 ReactDOM.render(
-    <Editor name="Stranger" />,
+    <Editor name="Dr.Strange" />,
     document.getElementById('root')
 );
 
